@@ -142,11 +142,11 @@ df = df_raw[
 
 # ── Navigation tabs ────────────────────────────────────────────
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
-    "📈 Overview",
-    "🛒 Products",
-    "👥 Customers",
-    "📦 Operations",
-    "🔍 Anomalies",
+    "Overview",
+    "Products",
+    "Customers",
+    "Operations",
+    "Anomalies",
 ])
 
 # ══════════════════════════════════════════════════════════════
